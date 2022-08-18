@@ -8,10 +8,13 @@ NRC: 7322.
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
 
-OBJETIVO GENERAL:
+OBJETIVO GENERAL: Se debe analizar y determinar que un inductor es un elemento de circuito que consiste en un alambre conductor normalmente en forma de un arrollamiento.
 
-OBJETIVO ESPECÍFICO:
+Se determina que un transformador es una máquina estática de corriente alterna que permite variar alguna función de la corriente como el voltaje o la intensidad, de esa forma debe conservar la frecuencia y la potencia, en el caso de un transformador ideal.
 
+OBJETIVO ESPECÍFICO: Debemos tener en cuenta que los inductores se clasifican por el tipo de núcleo en el cual están enrollados.
+
+Un transformador nos da la posibilidad de aumentar o disminuir el voltaje (tensión) y/o la intensidad de una corriente alterna manteniendo constante la potencia.
 
 MARCO TEÓRICO.
 
@@ -197,7 +200,19 @@ SECCIÓN 14–8 Transformadores con tomas y devanados múltiples.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ32.png)
 
+CONCLUSIONES.
 
+-En conclusión, se puede definir que un inductor es una bobina que está formada por un alambre conductor, con el cual se han hecho espiras o vueltas en forma de un apretado resorte.
+
+-En conclusión, los inductores están en el rango de unos cuantos microhenrys a decenas de henrys.
+
+-En conclusión, se puede determinar que los transformadores estan convertido por dos bobinas de conductores con espiras enrolladas (devanado) sobre un núcleo formado por chapas finas de acero al silicio (núcleo magnético).
+
+-En conclusión, en los transformadores el devanado que suministra energía se llama primario, y el devanado que toma energía recibe el nombre de secundario.
+
+BIBLIOGRAFÍA.
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a.
 
 
 
