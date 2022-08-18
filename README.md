@@ -77,7 +77,7 @@ SECCIÓN 13–4 Inductores en circuitos de cd.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ10.png)
 
-22. 22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
 (a) 10 ms (b) 20 ms (c) 30 ms
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ11.png)
