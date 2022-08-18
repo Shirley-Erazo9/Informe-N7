@@ -164,7 +164,7 @@ SECCIÓN 14–6 Igualación de impedancia.
 
 SECCIÓN 14–7 Características de un transformador no ideal.
 
-22. 22. ¿Cuál es la eficiencia del transformador en el problema 21?.
+22. ¿Cuál es la eficiencia del transformador en el problema 21?.
 
 ![](https://github.com/Shirley-Erazo9/Informe-N7/blob/main/EJ26.png)
 
